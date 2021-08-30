@@ -1,6 +1,6 @@
 # Master's thesis repo of Emil Ehnström
 
-This repository contains scripts that has been used in the master's thesis of Emil Ehnström. The Twitter data was collected by using the [tweetsearche](https://github.com/DigitalGeographyLab/tweetsearcher) developed by Väisänen et al. (2021).
+This repository contains scripts that has been used in the master's thesis of Emil Ehnström. The Twitter data was collected by using the [tweetsearcher](https://github.com/DigitalGeographyLab/tweetsearcher) developed by Väisänen et al. (2021).
 
 This repository is built upon tools from [Digital Geography Lab's borderspace repository] (https://github.com/DigitalGeographyLab/borderspace-tools)
 The scripts have then been modified for the thesis and scripts from the original repository, that have not been used in the thesis, have been excluded.
