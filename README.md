@@ -1,8 +1,8 @@
 # Master's thesis repo of Emil Ehnström
 
-This repository contains scripts that has been used in the master's thesis of Emil Ehnström.
+This repository contains scripts that has been used in the master's thesis of Emil Ehnström. The Twitter data was collected by using the [tweetsearche](https://github.com/DigitalGeographyLab/tweetsearcher) developed by Väisänen et al. (2021).
 
-This repository is originally forked from the [Digital Geography Lab's borderspace repository] (https://github.com/DigitalGeographyLab/borderspace-tools)
+This repository is built upon tools from [Digital Geography Lab's borderspace repository] (https://github.com/DigitalGeographyLab/borderspace-tools)
 The scripts have then been modified for the thesis and scripts from the original repository, that have not been used in the thesis, have been excluded.
 
 The workflow of the thesis follows:
@@ -16,3 +16,6 @@ The workflow of the thesis follows:
 7. For statistics I use **cb_summary.py**, **continents_summary.py**, **municipality_for_excel.py**, and **municipality_summary** together with Excel. 
 8. For further analyses in SPSS I use **group_comparison.py** to get a proper .csv file. 
 9. Some additional scripts were used for plottin, table writing and other minor operations. 
+
+Sources:
+Väisänen, T., S. Sirkiä, T. Hiippala, O. Järv & T. Toivonen (2021) tweetsearcher: A Python tool for downloading tweets for academic research. [DOI: 10.5281/zenodo.4767170](https://zenodo.org/record/4767170)
